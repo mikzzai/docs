@@ -45,7 +45,7 @@ cd docs
 mint dev
 ```
 
-Alternatively, without a global install:
+Alternatively, without a global install, run this from the `docs/` directory:
 
 ```bash
 npx mint dev
